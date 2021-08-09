@@ -1,0 +1,19 @@
+.Sardines {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.black-square4 {
+    height: 250px;
+    width: 250px;
+    background-color: rgba(0, 0, 0, .7);
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.6rem;
+}
